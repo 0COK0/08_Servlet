@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>include directive</h1>
-    <!-- include 지시자 태그를 이용하여 file 속성에 jsp 경로를 지정하면 해당 gsp에 작성한 내용을
+    <!-- include 지시자 태그를 이용하여 file 속성에 jsp 경로를 지정하면 해당 jsp에 작성한 내용을
     그래를 포함 시켜 현재 jsp 파일을 동작시킨다
     -->
     <div><%@ include file="today.jsp"%></div>

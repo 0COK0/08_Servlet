@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4df4b76-0bf5-40ee-b589-e5cc40c27859" name="Changes" comment="" />
+    <list default="true" id="b4df4b76-0bf5-40ee-b589-e5cc40c27859" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Test01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test01/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment02-JSP-Test/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment02-JSP-Test/src/main/webapp/jsp/01_aboutUs.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment02-JSP-Test/src/main/webapp/jsp/02_peoples.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment02-JSP-Test/src/main/webapp/jsp/03_menuconer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment02-JSP-Test/src/main/webapp/jsp/04_sell.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/assignment01/LogOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/assignment01/LogOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-jsp-lecture-source/src/main/webapp/jsp/3_includeDirective.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-jsp-lecture-source/src/main/webapp/jsp/3_includeDirective.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-jsp-lecture-source/src/main/webapp/jsp/4_request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-jsp-lecture-source/src/main/webapp/jsp/4_request.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-jsp-lecture-source/src/main/webapp/jsp/5_response.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-jsp-lecture-source/src/main/webapp/jsp/5_response.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -29,31 +48,32 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2eaEJHHK5VrjEM2ft4TdYlwhYkd" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build assignment01.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Tomcat Server.Tomcat 10.1.201.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build assignment01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.201.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Tomcat 10.1.201" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.201" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encodin=UTF-8" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATING_POLICY" value="hot-swap-classes" />
       <deployment>
         <artifact name="Gradle : com.ohgiraffers : assignment01-1.0-SNAPSHOT.war">
@@ -157,6 +177,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712134216723</updated>
       <workItem from="1712134217771" duration="9763000" />
+      <workItem from="1712215366224" duration="213000" />
+      <workItem from="1712215604879" duration="1761000" />
     </task>
     <servers />
   </component>

@@ -4,6 +4,7 @@
 <head>
     <title>Title</title>
 </head>
+    <body>
     <h1>메뉴 주문</h1>
     <form action="/menu/order" method="post">
     <select id="menu" name="menuName">

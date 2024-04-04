@@ -24,6 +24,7 @@ public class LogOut extends HttpServlet {
                 .append("</head>\n")
                 .append("<body>\n")
                 .append("<h2 align=\"center\" style=\"color: green\">")
+
                 .append(nicName)
                 .append("님 회원 가입을 완료 되셨습니다.<h2>")
                 .append("<body>\n")
